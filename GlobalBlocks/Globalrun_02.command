@@ -3,7 +3,7 @@ Station file name: ./Kreemer_GPS_NA_trouble3_off.sta.data
 Block file name: ./Global.block
 Reuse old elastic kernel: no
 Old elastic kernel file: ./0000000001/kernels.mat
-Save current elastic kernels: yes
+Save current elastic kernels: no
 Fault resolution: 500
 Poissons ratio: 0.25
 Station data weight: 1
@@ -33,4 +33,4 @@ Constrain edge element slip to equal that of adjacent segment: 0
 Set [up- down-] dip limits to zero slip: 1 1 1 1 1 0 1 1 1
 Strain calculation method: 1
 Number of Monte Carlo iterations: 1
-dumpall: yes
+dumpall: no
